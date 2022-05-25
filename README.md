@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slp-rei
+- 👋 Hi, I’m @KuroNeko
 - 👀 I’m interested in legal tech and smart contracts.
 - 🌱 I’m currently learning Document Summarization.
 - 💞️ I’m looking to collaborate on AI projects.
